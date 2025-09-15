@@ -208,3 +208,4 @@ Its power is too dangerous; you must **keep it safe from everyone**.
 You survive the tower, but the cursed sword remains, waiting.  
 
 -> END
+Botond Kun
